@@ -14,3 +14,4 @@ Updated the HTML for folder setup for cleaner locaitons.
 Used the following websites as referances for updating work. https://www.w3schools.com/ and https://developer.mozilla.org/en-US/
 
 ## License
+https://github.com/TLH3810/03-Password_Generator/blob/main/LICENSE
